@@ -8,3 +8,4 @@
 - ถ้าคะแนน น้อยกว่า 50 ได้ F
 
 #### ให้เขียนโค้ดในรูปแบบ Ternary Operators
+Rattanon Tunwittaya
